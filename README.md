@@ -9,5 +9,4 @@ In case of any errors with the city name, you will receive an alert notification
 
 
 
-![alt text](../images/Background.jpg)
-
+![Weather Photo](https://github.com/tgulu/Weather/blob/master/images/Background.jpg?raw=true)
