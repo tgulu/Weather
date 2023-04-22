@@ -7,4 +7,5 @@ The app will then display the current temperature, sky description, humidity, an
 
 In case of any errors with the city name, you will receive an alert notification.
 
-<img src = "images/Background.jpg"
+
+![alt text](img/Background.jpg)
