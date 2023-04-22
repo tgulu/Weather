@@ -1,4 +1,7 @@
-WEATHER APP
+# WEATHER APP 
+
+## 1. URL: https://tgulu.github.io/Weather/
+
 
 The Weather App is a website built using HTML, CSS, Bootstrap, and JavaScript and utilizes the open-weather API. 
 To use the app, simply enter your city in the search bar and click on the search icon. 
